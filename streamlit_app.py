@@ -5,3 +5,6 @@ streamlit.title('My Parents New Healthy Diner')
 delete from streamlit
 
 streamlit.title('My Parents New Healthy Diner')
+
+remove from streamlit
+streamlit.title('My Parents New Healthy Diner')
