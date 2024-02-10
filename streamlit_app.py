@@ -2,6 +2,6 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-remove streamlit
+delete from streamlit
 
 streamlit.title('My Parents New Healthy Diner')
