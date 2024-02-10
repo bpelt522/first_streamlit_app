@@ -1,2 +1,1 @@
-remove from streamlit
-streamlit.title('My Parents New Healthy Diner')
+delete streamlit.title('My Parents New Healthy Diner')
